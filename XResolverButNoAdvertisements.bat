@@ -1,0 +1,1 @@
+curl -d "xboxUsername=Gamertag+Like+This" -H "Accept: */*" -H "Content-Type: application/x-www-form-urlencoded" -H "Host: xresolver.com" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" -H "Cookie: User=admin; showAd=false;" -X POST https://xresolver.com/ajax/tool.php
